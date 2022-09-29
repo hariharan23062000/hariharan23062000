@@ -1,0 +1,3 @@
+git remote add origin https://github.com/hariharan23062000/hariharan23062000.git
+git branch -M main
+git push -u origin main
